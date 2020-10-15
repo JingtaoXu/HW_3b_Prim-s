@@ -1,0 +1,21 @@
+graph G {
+    label="MST for CLRS Graph (Prim)";
+    node [width=0.5];
+a
+b
+c
+d
+e
+f
+g
+h
+i
+a -- b [label="4"]
+b -- c [label="8"]
+c -- d [label="7"]
+c -- f [label="4"]
+c -- i [label="2"]
+d -- e [label="9"]
+f -- g [label="2"]
+g -- h [label="1"]
+}
